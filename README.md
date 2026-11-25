@@ -4,6 +4,8 @@ Convert a monthly salary into real hourly, daily and weekly pay, and compare two
 
 **Live app:** https://abood-ayman.github.io/hourly-wage-ar/
 
+**LinkedIn:** [Project entry](https://www.linkedin.com/in/abdullah-ayman-1678b737b/details/projects/)
+
 ![Hourly Wage Calculator, mobile view](docs/screenshot.svg)
 
 This is a personal project, built with AI tools.
